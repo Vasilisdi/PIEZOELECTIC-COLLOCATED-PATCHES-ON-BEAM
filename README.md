@@ -11,27 +11,21 @@ This project was created in the context of my diploma thesis for my "MSc Mechani
 - Active vibration control using piezoelectric collocated patches
 - Customization of LQR command in MATLAB for tweaking state and input cost matrices
 
-## Installation
+## Concept
 
-[Include installation instructions here]
+The goal of this very project is to develop an active vibration control system using beam and plate theory. In both cases, both the analytical and FEM model have been developed. Bear in mind that it has been chosen that a set of eight sensing patches and an additional set of eight actuating patches have been attached on the structure. 
 
-## Usage
+Structure modelling: 
+- Beam FEM theory
+- Beam analytical theory
+- Plate FEM theory
+- Plate analytical theory
 
-[Provide instructions on how to use the project, including any necessary code snippets or examples]
+In addition the the previously mentioned modelling, state space modelling has been developed so as to make use of an LQR and an MPC controller. This has been combined with prediction estimator modelling, which requires the use of two different models. In place of the actual structure both the FEM and analytical models have been used, so as to substitute the identification modelling.
 
-## Documentation
-
-[Link to additional documentation, if available]
-
-## Contributing
-
-[Guidelines for contributing to the project, including how to report bugs, suggest features, and submit pull requests]
-
-## License
-
-[Specify the license under which your project is distributed]
 
 ## Acknowledgments
+
 - Kerboua, M., Megnounif, A., Benguediab, M., Benrahou, K. H., & Kaoulala, F. (2015). Vibration control beam using Piezoelectric - based smart materials.
 - Moheimani, S. O., & Fleming, A. J. (2006). Piezoelectric Transducers for Vibration Control and Damping. London: Springer.
 - Preumond, A. (2011). Vibration Control of Active Structures. Bruxelles: Springer.
