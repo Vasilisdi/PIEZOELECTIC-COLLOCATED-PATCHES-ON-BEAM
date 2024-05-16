@@ -32,5 +32,8 @@ This project was created in the context of my diploma thesis for my "MSc Mechani
 [Specify the license under which your project is distributed]
 
 ## Acknowledgments
-
-[Optional section to acknowledge any contributors, libraries, or resources that have helped in the development of the project]
+- Kerboua, M., Megnounif, A., Benguediab, M., Benrahou, K. H., & Kaoulala, F. (2015). Vibration control beam using Piezoelectric - based smart materials.
+- Moheimani, S. O., & Fleming, A. J. (2006). Piezoelectric Transducers for Vibration Control and Damping. London: Springer.
+- Preumond, A. (2011). Vibration Control of Active Structures. Bruxelles: Springer.
+- V. Belamurugan, S. N. (2002). Active vibration control of piezolaminated smart beams.
+- Vepa, R. (2010). Dynamics of Smart Structures. New Delhi: Wiley. Wu Dafang, Huang Liang , Pan Bing , Wang Yuewu , Wu Shuang. (2014). Experimental study and numerical simulation of active vibration control of a highly flexible beam using piezoelectric intelligent material.
